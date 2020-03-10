@@ -40,7 +40,7 @@ const IndexPage = () => (
         <Col md={3}>
           <div>
             <span style={{marginLeft: '10px', marginRight: '10px'}}><a href="https://www.youtube.com/channel/UCc3QfWQQ5HJ7vgAJz8vLLag/" rel="noopener noreferrer" target="_blank" className="icon">{youtubeLogo}</a></span>
-            <span style={{marginLeft: '10px', marginRight: '10px'}}><a href="https://www.facebook.com/john.madrigal.1650/" rel="noopener noreferrer" target="_blank" className="icon">{facebookLogo}</a></span>
+            <span style={{marginLeft: '10px', marginRight: '10px'}}><a href="https://www.facebook.com/jpmadrigalPH/" rel="noopener noreferrer" target="_blank" className="icon">{facebookLogo}</a></span>
             <span style={{marginLeft: '10px', marginRight: '10px'}}><a href="https://twitter.com/jpmadrigal_/" rel="noopener noreferrer" target="_blank" className="icon">{twitterLogo}</a></span>
             <span style={{marginLeft: '10px', marginRight: '10px'}}><a href="https://github.com/jpmadrigal07/" rel="noopener noreferrer" target="_blank" className="icon">{githubLogo}</a></span>
             <span style={{marginLeft: '10px', marginRight: '10px'}}><a href="https://www.linkedin.com/in/john-patrick-madrigal-0b56b8144/" rel="noopener noreferrer" target="_blank" className="icon">{linkedinLogo}</a></span>
